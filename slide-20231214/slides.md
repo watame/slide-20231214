@@ -11,7 +11,7 @@ mdc: true
 
 # NISA, iDeCo, 変額保険の違い
 
-〜3つの特徴とメリデメをざっくりと〜
+〜 3つの特徴とメリデメをざっくりと 〜
 
 ---
 layout: center
@@ -303,5 +303,31 @@ layout: center
 </div>
 
 ---
+layout: center
+---
 
-# まとめ
+<div class="text-4xl flex item-center">
+
+| 投資対象 | 入口 | 途中 | 出口 | 現金化 |
+| -------- | ---- | ---- | ---- | ------ |
+| NISA     | 👹    | 😆    | 🤩    | 🤩      |
+| iDeCo    | 🤩    | 😆    | 🙂    | 👹      |
+| 変額保険 | 🙂    | 😆    | 🙂    | 😥      |
+
+</div>
+
+<br>
+
+<div class="text-3xl flex item-center">
+
+※ 変額保険は保険として利用可能、受取人が変更可能 🤩
+
+</div>
+
+---
+layout: center
+---
+
+<div class="text-5xl flex item-center">
+  ご清聴ありがとうございました😎
+</div>
